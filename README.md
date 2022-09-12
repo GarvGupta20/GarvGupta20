@@ -4,19 +4,20 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/garv-gupta-5362a9239/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
                                                                                                                               
 <h2 color="red" align="center">Hi!</h2>
-
-<p align="center">About me:
- I am pursuing my computer science degree
- web developer
- tech enthusiast
- In my free time i solve problem on geeksforgeeks or read  tech articles</p>
+<div color="blue">
+<p> align="center">About me:</p>
+ <p>I am pursuing my computer science degree<p>
+ <p>web developer<p>
+ <p>tech enthusiast<p>
+ <p>In my free time i solve problem on geeksforgeeks or read  tech articles</p>
+  </p>
                  
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -34,8 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
                                                                                                                                                
-                                                                                                                                               ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GarvGupts20&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GarvGupta20&theme=dark)](https://git.io/streak-stats)
 
 
 <!---
