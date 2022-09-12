@@ -12,12 +12,16 @@
                                                                                                                               
 <h2 color="red" align="center">Hi!</h2>
 <div color="blue">
-<p> align="center">About me:</p>
+<p align="center">About me:</p>
  <p>I am pursuing my computer science degree<p>
  <p>web developer<p>
  <p>tech enthusiast<p>
  <p>In my free time i solve problem on geeksforgeeks or read  tech articles</p>
   </p>
+  
+  
+  
+  
                  
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -34,6 +38,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
                                                                                                                                                
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GarvGupta20&theme=dark)](https://git.io/streak-stats)
 
